@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hey, I'm Will
 
-<!--
-**Razzleberrytt/Razzleberrytt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught developer exploring the edges of frontend tech, automation, and indie web projects.
 
-Here are some ideas to get you started:
+## 🔧 Tech I Like Working With
+- React, Tailwind, TypeScript
+- Framer Motion, GitHub Pages, Node.js
+- UI/UX design, simple animations, weird little tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects
+- Building psychedelic-themed web apps & educational tools
+- Exploring affiliate marketing + crypto monetization
+- Learning by building (and breaking) everything
+
+## 🧠 Philosophy
+I believe in clean design, fast iteration, and shipping early.  
+I'm not here to build perfect code — I'm here to build **cool sh*t that works**.
+
+---
+
+> “Stay scrappy. Stay curious. Build until it clicks.”
